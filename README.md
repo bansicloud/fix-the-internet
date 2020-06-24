@@ -83,6 +83,6 @@ https://d.tube/
 ## DESCRIPTIONS
 
 ### People like to use the internet in ways that are unhealthy
-**Problem:** People like to use social media in ways that are unhealthy.  Without a fundamental shift government intervention or other mitigation may do little to solve the negative effects of modern social media on society.
+**Problem:** People like to use social media in ways that are unhealthy.  Without a fundamental shift government intervention or other mitigation may do little toward the negative impact modern social media is having on society.
 
-**Solution:** Let us provide social tools that promote healthy use and germinate the idea that there is a problem with the way we're using tech and encourage the pubic to work toward healthier technological choices.
+**Solution:** Let us provide social tools that promote healthy use and germinate the idea that there is a problem with the way we're using tech and encourage the public to work toward healthier technological choices.
