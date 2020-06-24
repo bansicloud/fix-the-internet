@@ -2,7 +2,7 @@
 What is wrong with the way we use the internet?  What can we do to fix it?
 
 ## Problems
-Some of the things we need to address.
+Things we need to address
 
 * ads
 * search
@@ -15,7 +15,7 @@ Some of the things we need to address.
 * laws
 * centralization
 * trolls/spam/phishing
-* distraction
+* distraction/interruption
 
 ## Solutions
 Ideas to fix the problems
@@ -24,7 +24,7 @@ Ideas to fix the problems
 * split browsers between static content and applications
 
 ## Categories
-Major categories to find solutions in.
+Major solution categories
 
 * local-first / sync
 * identification
@@ -55,5 +55,5 @@ Projects working toward solutions.
 
 ## How to help
 * Join a team
-* Choose healthy tech habits
-* Be a sponsor
+* Build healthy tech habits
+* Become a sponsor
