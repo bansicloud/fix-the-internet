@@ -19,7 +19,7 @@ Things to address
 * trolls/spam/phishing
 * distraction/interruption
 * usefulness
-* **Most people don't see the internet as 'broken'** (this is a big one.)
+* **Most people don't see the internet as 'broken'** (this is a big one)
 * People like to use the internet in ways that are unhealthy
 
 ## Solutions
