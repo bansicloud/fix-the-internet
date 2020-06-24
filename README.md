@@ -48,6 +48,7 @@ Major solution categories
 * https://www.reddit.com/r/selfhosted/
 
 ## Resources
+* https://humanetech.com/
 * https://calmtech.com/
 * https://www.w3.org/TR/did-core/
 
@@ -64,7 +65,6 @@ Projects working toward solutions.
 * https://inrupt.com/
 * https://ipfs.io/
 * https://mozilla-builders-symposium.pory.app/
-* https://humanetech.com/
 * https://blockstack.org/
 
 ## Technology
