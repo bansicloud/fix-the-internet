@@ -2,7 +2,7 @@
 What is wrong with the way we use the internet?  What can we do to fix it?
 
 ## Problems
-Things we need to address
+Things to address
 
 * ads
 * search
@@ -48,6 +48,7 @@ Major solution categories
 ## Reading
 * https://calmtech.com/papers.html
 * https://martin.kleppmann.com/papers/local-first.pdf
+* http://archagon.net/blog/2018/03/24/data-laced-with-history/
 
 ## Projects
 Projects working toward solutions.
