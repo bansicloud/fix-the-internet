@@ -84,6 +84,7 @@ https://d.tube/
 ## How to help
 * Join a team
 * Build healthy tech habits
+* Help bring awareness to the issues and solutions
 * Become a sponsor
 
 ## DESCRIPTIONS
