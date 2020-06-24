@@ -28,6 +28,12 @@ Ideas to fix the problems
 * a not for profit web
 * split browsers between static content and applications
 
+## What's working
+Things that the internet does give us (though used improperly these can carry problems) 
+* convenience
+* entertainment
+* choice
+
 ## Categories
 Major solution categories
 
