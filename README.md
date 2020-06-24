@@ -29,7 +29,7 @@ Ideas to fix the problems
 * split browsers between static content and applications
 
 ## What's working
-Things that the internet does give us (though used improperly these can carry problems) 
+Things the internet give us (though used improperly these can carry problems) 
 * convenience
 * entertainment
 * choice
