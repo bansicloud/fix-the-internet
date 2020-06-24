@@ -85,7 +85,9 @@ https://d.tube/
 ### People like to use the internet in ways that are unhealthy
 **Problem:** People like to use social media in ways that are unhealthy.  Without a fundamental shift government intervention or other mitigation may do little toward the negative impact modern social media is having on society.
 
-**Solution:** Let us provide social tools that promote healthy use and germinate the idea that there is a problem with the way we're using tech and encourage the public to work toward healthier technological choices.
+**Solutions:** Let us provide social tools that promote healthy use and germinate the idea that there is a problem with the way we're using tech and encourage the public to work toward healthier technological choices.
 
 ### Usefulness
-Much of modern tech seems to be "Candy-bar Technology" .. you like it, but at best it doesn't really do much to help you in life, and at worst it might actually be bad for you.
+**Problem:** Much of modern tech seems to be "Candy-bar Technology" .. you like it, but at best it doesn't really do much to help you in life, and at worst it might actually be bad for you.
+
+**Solutions:** Let us focus on building highly efficient tech: tech that has a low cognitive/maintenance cost with high life improvement value.
