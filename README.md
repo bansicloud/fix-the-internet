@@ -38,6 +38,10 @@ Major solution categories
 * https://mozillabuilders.slack.com
 * https://gitter.im/solid/chat
 
+## Disscussion
+* https://news.ycombinator.com/item?id=23556010
+* https://www.reddit.com/r/selfhosted/
+
 ## Resources
 * https://calmtech.com/
 
