@@ -88,6 +88,6 @@ https://d.tube/
 **Solutions:** Let us provide social tools that promote healthy use and germinate the idea that there is a problem with the way we're using tech and encourage the public to work toward healthier technological choices.
 
 ### Usefulness
-**Problem:** Much of modern tech seems to be "Candy-bar Technology" .. you like it, but at best it doesn't really do much to help you in life, and at worst it might actually be bad for you.
+**Problem:** Much of modern tech seems to be "Candy-bar Technology" .. we like it, but at best it doesn't really do much to help in life, and at worst it might actually be bad for us.
 
 **Solutions:** Let us focus on building highly efficient tech: tech that has a low cognitive/maintenance cost with high life improvement value.
