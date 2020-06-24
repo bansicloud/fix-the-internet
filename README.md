@@ -36,15 +36,21 @@ Major categories to find solutions in.
 
 ## Connect
 * https://mozillabuilders.slack.com
-* 
+* https://gitter.im/solid/chat
 
 ## Resources
-
+* https://calmtech.com/
 
 ## Reading
-
+* https://calmtech.com/papers.html
+* https://martin.kleppmann.com/papers/local-first.pdf
 
 ## Projects
+Projects working toward solutions.
+
+* https://inrupt.com/
+* https://ipfs.io/
+* https://mozilla-builders-symposium.pory.app/
 
 
 ## How to help
