@@ -31,11 +31,23 @@ Ideas to fix the problems
 * a not for profit web
 * split browsers between static content and applications
 
-## What's working
-Things the internet gives us (though used improperly these can carry problems) 
+## Where are we at?
+Things the current internet provides... 
+* choice
 * convenience
 * entertainment
-* choice
+* socializing
+
+Issues with current design...
+* contention/strife
+* depression
+* lack of focus/concentration/attention span
+* loneliness
+* loss of privacy
+* manipulation
+* shallow thinking
+
+
 
 ## Categories
 Major solution categories
