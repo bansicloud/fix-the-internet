@@ -2,7 +2,7 @@
 The question has been posed to the tech community "What's broken about the internet?"  The general response is that the internet, web and tech is broken in fundamentally significant ways.  (Ads, search, social media, email, browsing, content, monopoly, privacy, laws, centralization, trolls/spam/phishing, distraction.) This leads to a natural question.  What can be done to fix the problem?  What organizations, projects, technologies, ideas or applications do you see that would make an internet that is something we all love, feel safe using and is productive?  What can we do to fix the internet? 
 
 ## Problems
-Things to address
+Areas to address
 
 * ads/business models
 * browsing
