@@ -64,6 +64,7 @@ Major solution categories
 * http://archagon.net/blog/2018/03/24/data-laced-with-history/
 * https://medium.com/@SSI_Ambassador/an-introduction-to-self-sovereign-identity-ssi-916eb42f0490
 * https://theconversation.com/web-3-0-the-decentralised-web-promises-to-make-the-internet-free-again-113139
+* https://www.shogan.co.uk/life/how-i-deleted-my-facebook-whatsapp-and-instagram-accounts-and-felt-great-since/
 
 ## Projects
 Projects working toward solutions.
