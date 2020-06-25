@@ -12,8 +12,10 @@ Things to address
 * content
 * monopoly
 * privacy
+* surveillance capitalism
 * trust
 * dark patterns
+* misinformation
 * laws
 * centralization
 * trolls/spam/phishing
