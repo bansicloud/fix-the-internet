@@ -5,24 +5,25 @@ Recently the question was posed "What's broken about the internet?" The general 
 Things to address
 
 * ads/business models
+* browsing
+* centralization
+* content
+* dark patterns
+* distraction/interruption
+* email
+* laws
+* misinformation
+* monopoly
+* **most people don't see the internet as 'broken'** (this is a big one)
+* people like to use the internet in ways that are unhealthy
+* privacy
 * search
 * social media
-* email
-* browsing
-* content
-* monopoly
-* privacy
 * surveillance capitalism
-* trust
-* dark patterns
-* misinformation
-* laws
-* centralization
 * trolls/spam/phishing
-* distraction/interruption
+* trust
 * usefulness
-* **Most people don't see the internet as 'broken'** (this is a big one)
-* People like to use the internet in ways that are unhealthy
+
 
 ## Solutions
 Ideas to fix the problems
