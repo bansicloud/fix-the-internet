@@ -52,13 +52,14 @@ Issues with current design...
 ## Categories
 Major solution categories
 
-* local-first / sync
-* identification
 * decentralization
-* micro payments
+* identification
 * information integrity
-* self hosting
+* local-first / sync
+* micro payments
 * monetization
+* self hosting
+
 
 ## Connect
 * https://mozillabuilders.slack.com
