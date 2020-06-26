@@ -15,6 +15,7 @@ Areas to address
 * misinformation
 * monopoly
 * **most people don't see the internet as 'broken'** (this is a big one)
+* number of services (lack of standards)
 * people like to use the internet in ways that are unhealthy
 * privacy
 * search
