@@ -114,10 +114,9 @@ https://d.tube/
 **Solutions:** Let us provide social tools that promote healthy use and germinate the idea that there is a problem with the way we're using tech and encourage the public to work toward healthier technological choices.
 
 ### Privacy
-**Problem:** There is an extream lack of privacy in nearly every corner.  If you employ privacy tools the experance is greatly degraded with robot checks, broken websites, and downright refusal to continue.
+**Problem:** There is an extreme lack of privacy in nearly every corner. If you employ privacy tools the experience is greatly degraded with robot checks, broken websites, and downright refusal to continue.
 
-**Solutions:** Assume people do not want to be tracked unless they specifically ask to be so. Change business models. Make a not for profit web option.  Make sure laws address the problem rather than degrade the experience with little change.  Create new abstract data systems that do not provide layout.  
-
+**Solutions:** Assume people do not want to be tracked unless they specifically ask to be so. Change business models. Make a not for profit web option. Make sure laws address the problem  without degrading the experience with little actual solution. Create new abstract data systems that do not include layout.
 
 ### Usefulness
 **Problem:** Much of modern tech seems to be "Candy-bar Technology" .. we like it, but at best it doesn't really do much to help in life, and at worst it might actually be bad for us.
